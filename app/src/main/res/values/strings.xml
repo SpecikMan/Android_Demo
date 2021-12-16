@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="content_title_text">Content Title Text</string>
+    <string name="content_text">Content Text</string>
+    <string name="subtext">Subtext</string>
+    <string name="show_notification">Show Notification</string>
+    <string name="next">Next</string>
+    <string name="show_music_notification">Show Music Notification</string>
+    <string name="show_progressbar_notification">Show ProgressBar Notification</string>
+</resources>
